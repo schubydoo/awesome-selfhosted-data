@@ -1,0 +1,14 @@
+name: "Clauster"
+website_url: "https://schubydoo.github.io/clauster/"
+source_code_url: "https://github.com/schubydoo/clauster"
+description: "Web UI for spawning and managing Claude Code instances on your own infrastructure without SSH."
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+  - Generative Artificial Intelligence (GenAI)
+  - Remote Access
+depends_3rdparty: true
